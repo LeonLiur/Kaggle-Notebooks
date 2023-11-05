@@ -1,2 +1,5 @@
 # Kaggle-Notebooks
-Notebooks from various Kaggle competitions I did. Recent: top 9% in Rwanda CO2 Prediction (PS S3:E20) | 2022-
+
+### Rwanda CO2 Prediction (August 2023)
+
+Predicting the concentration of CO2 in Rwanda. Very Feature Engineering-focused competition, extremely little useful data columns. Top 9% / 1442.
